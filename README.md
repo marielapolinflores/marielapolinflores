@@ -1,4 +1,4 @@
-# ¡Hola! Soy Mariela Diana 👩‍💻
+# ¡Hola! Soy Mariela Polin 👩‍💻
 
 ### Estudiante de Ingeniería de Software con IA | SENATI
 "Enfocada en convertir lógica en soluciones y datos en decisiones."
