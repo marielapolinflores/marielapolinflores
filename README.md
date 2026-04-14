@@ -16,8 +16,8 @@
 
 ---
 ### 🛠️ Herramientas y Tecnologías
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,mysql,oracle,git,github,vscode,html,css,linux,ubuntu&theme=dark" />
 </p>
 
 ---
