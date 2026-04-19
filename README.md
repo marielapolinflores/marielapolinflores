@@ -18,8 +18,10 @@
 ### 🛠️ Herramientas y Tecnologías
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,git,github,vscode,html,css,javascript,python&theme=dark" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" alt="Oracle" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
 </p>
+
+💾 Base de Datos: Oracle SQL Developer | SQL | PL/SQL
 
 ---
 
