@@ -17,7 +17,7 @@
 ---
 ### 🛠️ Herramientas y Tecnologías
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,SQL Developer,oracle,git,github,vscode,html,css,javascript,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,SQL,oracle,git,github,vscode,html,css,javascript,python&theme=dark" />
 </p>
 
 ---
