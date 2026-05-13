@@ -26,8 +26,8 @@
 
 ### 📈 Mi actividad de GitHub
   <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marielapolinflores-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marielapolinflores-sudo&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marielapolinflores&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marielapolinflores&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 ---
@@ -47,5 +47,5 @@
 </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/marielapolinflores-sudo/marielapolinflores-sudo/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/marielapolinflores/marielapolinflores/output/github-contribution-grid-snake.svg" />
 
