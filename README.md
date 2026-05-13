@@ -11,7 +11,7 @@
 
 ### ⚡ Un poco sobre mí
 - 🔭 Actualmente realizo programaciones web.
-- 📚 Dominando todas mis herramientas y tecnologias.
+- 📚 Domino todas mis herramientas y tecnologias.
 - ⚡ Me apasiona el diseño de interfaces limpias y funcionales.
 
 ---
