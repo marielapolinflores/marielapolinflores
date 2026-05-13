@@ -47,5 +47,5 @@
 </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/marielapolinflores/marielapolinflores/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marielapolinflores&theme=tokyo-night&hide_border=true" />
 
